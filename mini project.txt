@@ -1,0 +1,21 @@
+User Registration and Sign-in:
+a. Users can register on the e-commerce platform by providing their username, email, and password.
+b. After registration, users can sign in using their credentials to access the platform.
+
+Adding Articles to Cart:
+a. Once signed in, users can browse the articles available on the platform.
+b. Users can select an article they want to purchase and add it to their cart.
+c. Users can add multiple articles to their cart, adjusting quantities if needed.
+d. The cart will keep track of the selected articles and quantities.
+
+Creating an Order:
+a. When users have finished shopping and want to proceed with the purchase, they can create an order.
+b. Users can review the articles in their cart and confirm the order.
+c. The order will include the selected articles, quantities, and the total amount to be paid.
+d. An order will also include the order date and a unique order identifier.
+
+Payment and Order Completion:
+a. Users can proceed with the payment process to complete the order.
+b. The payment can be processed using various payment methods integrated into the e-commerce platform.
+c. After successful payment, the order will be marked as completed.
+d. Users will receive an order confirmation and details via email or other notification methods.
